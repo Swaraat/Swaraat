@@ -1,7 +1,7 @@
 ![logo](https://github.com/Swaraat/Swaraat/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Swaraat Chatterjee</h1>
-<h3 align="center">A passionate learner from India</h3>
-
+<h3 align="center">A Passionate Programmer  From India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/Swaraat/Swaraat/blob/main/pic.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraat&label=Profile%20views&color=0e75b6&style=flat" alt="swaraat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/swaraatc2" target="blank"><img src="https://img.shields.io/twitter/follow/swaraatc2?logo=twitter&style=for-the-badge" alt="swaraatc2" /></a> </p>
