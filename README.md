@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Script,DSA**
 
-- 💬 Ask me about **DSA,Js,C,HTML,CSS,SQL**
+- 💬 Ask me about **DSA,Js,C++,HTML,CSS,SQL**
 
 - 📫 How to reach me **swaraatchatterjee@gmail.com**
 
