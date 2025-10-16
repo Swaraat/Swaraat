@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/swaraatc2" target="blank"><img src="https://img.shields.io/twitter/follow/swaraatc2?logo=twitter&style=for-the-badge" alt="swaraatc2" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script,DSA**
-
-- 💬 Ask me about **DSA,Js,C++,HTML,CSS,SQL**
-
 - 📫 How to reach me **swaraatchatterjee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
